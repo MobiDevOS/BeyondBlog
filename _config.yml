@@ -2,7 +2,7 @@ title: zhujohnle的博客
 description: 記錄每一個點滴的成長
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-merlot
+theme: jekyll-theme-cayman
 
 gems:
   - jekyll-mentions
