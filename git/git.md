@@ -1,151 +1,82 @@
+# 数据结构与算法
 
+- [算法](https://book.douban.com/subject/19952400/)
+- [数据结构与算法分析](https://book.douban.com/subject/3351237/)
+- [编程珠玑](https://book.douban.com/subject/3227098/)
+- [剑指 Offer](https://book.douban.com/subject/25910559/)
 
-Git命令
-===========
+# 操作系统
 
-git配置（config）：
------------------
-    
-    git version                                                 # 查看版本
+- [现代操作系统](https://book.douban.com/subject/3852290/)
+- [深入理解计算机系统](https://book.douban.com/subject/26912767/)
+- [鸟哥的 Linux 私房菜](https://book.douban.com/subject/4889838/)
+- [Unix 环境高级编程](https://book.douban.com/subject/25900403/)
+- [Unix/Linux 编程实践教程](https://book.douban.com/subject/1219329/)
+- [Operating Systems: Three Easy Pieces (OSTEP)](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-    git config -l                                               # 查看当前配置
-    git config --global user.name "Dean"                        # 设置用户名，邮箱  
-    git config --global user.email g.xiangyu1990@gmail.com      # 设置用户名，邮箱  
-    git config --global alias.ci commit                         # 设置git命令的别名
-    git config --global alias.co checkout                       # 设置git命令的别名
+# 计算机网络
 
-git仓库（repository）：
--------------
-    
-    # 创建一个本地的git仓库并命名：  
-    git init demo
+- [计算机网络](https://book.douban.com/subject/2970300/)
+- [计算机网络 自顶向下方法](https://book.douban.com/subject/1391207/)
+- [图解 HTTP](https://book.douban.com/subject/25863515/)
+- [TCP/IP 详解 卷 1：协议](https://book.douban.com/subject/1088054/)
+- [UNIX 网络编程](https://book.douban.com/subject/1500149/)
+- [Linux 多线程服务端编程](https://book.douban.com/subject/20471211/)
 
-    # 克隆一个远程的git仓库到指定路径：  
-    git clone https://github.com/a396901990/android.git /path/workpsace
+# 面向对象
 
-git分支（branch）:
------------------
-    
-    git branch                      # 查看分支
-    git remote show origin          # 查看所有分支
-    git branch <branchname>         # 创建新分支
-    git checkout <branchname>       # 切换到分支
-    git checkout -b <new_branch>    # 创建并切换到新分支
-    git branch -d <branchname>      # 删除分支（-D强删） 
-    git branch -m <old> <new>       # 本地分支重命名
+- [Head First 设计模式](https://book.douban.com/subject/2243615/)
+- [设计模式 可复用面向对象软件的基础](https://book.douban.com/subject/1052241/)
+- [敏捷软件开发 原则、模式与实践](https://book.douban.com/subject/1140457/)
 
-git添加（add）：
-------------------
-    
-    git add <file>      # 将本地指定文件名或目录（新增和修改，没有删除）的文件添加到暂存区
-    git add .           # 将本地所有的（新增和修改，没有删除）文件添加到暂存区
-    git add -u          # 将本地的（修改和删除，没有新增）文件添加到暂存区
-    git add -A          # 将本地所有改动添加到暂存区（git add -A = git add . + git add -u）
-    git add -i          # 打开一个交互式界面按需求添加文件
+# 数据库
 
-git删除/重命名（rm/mv）：
------------------
-    
-    git rm <file>                   # 删除文件
-    git rm -r <floder>              # 删除文件夹
-    git rm --cached <file>          # 从版本库中删除文件，但不删除文件      
+- [数据库系统概念](https://book.douban.com/subject/10548379/)
+- [MySQL 必知必会](https://book.douban.com/subject/3354490/)
+- [高性能 MySQL](https://book.douban.com/subject/23008813/)
+- [Redis 设计与实现](https://book.douban.com/subject/25900156/)
+- [Redis 实战](https://book.douban.com/subject/26612779/)
 
-    git mv <old_name> <new_name>    # 文件重命名
+# Java
 
-git提交（commit）：
---------------------
-    
-    git commit  -m "comment"           # 提交暂存区中的内容（已经add）并添加注释
-    git commit -a                      # 把修改的文件添加到暂存区（不包括新建(untracked)的文件），然后提交。
-    git commit --amend                 # 修改提交的commit（没有push）
-    git commit --amend -m "comment"    # 修改commit注解
+- [Java 编程思想](https://book.douban.com/subject/2130190/)
+- [Effective java 中文版](https://book.douban.com/subject/3360807/)
+- [深入理解 Java 虚拟机](https://book.douban.com/subject/24722612/)
+- [Java 并发编程实战](https://book.douban.com/subject/10484692/)
+- [精通 Spring 4.x](https://book.douban.com/subject/26952826/)
+- [Spring 揭秘](https://book.douban.com/subject/3897837/)
 
-git差异（diff）：
---------------------
-    
-    git diff                     # 查看工作目录（working tree）暂存区（index）的差别
-    git diff --cached            # 查看暂存起来的文件（stage）与并未提交（commit）的差别
-    git diff --staged            # 同上
-    git diff HEAD                # 查看最后一次提交之后的的差别（HEAD代表最近一次commit的信息）
-    git diff --stat              # 查看显示简略结果(文件列表)
-    git diff commit1 commit2     # 对比两次提交的内容（也可以是branch，哈希值）
+# C++
 
-git查看历史（log）：
-----------------------
-    
-    git log
-    git log -3           # 查看前3次修改
-    git log --oneline    # 一行显示一条log
-    git log -p           # 查看详细修改内容  
-    git log --stat       # 查看提交统计信息
-    git log --graph      # 显示何时出现了分支和合并等信息
+- [C++ Primer](https://book.douban.com/subject/25708312/)
+- [Effective C++](https://book.douban.com/subject/1842426/)
+- [C++ 编程规范](https://book.douban.com/subject/1480481/)
+- [STL 源码剖析](https://book.douban.com/subject/1110934/)
+- [深度探索 C++ 对象模型](https://book.douban.com/subject/1091086/)
 
-git查看状态（status）：
-----------------------------
-    
-    git status              # 查看你的代码在缓存与当前工作目录的状态
-    git status -s           # 将结果以简短的形式输出
-    git status --ignored    # 显示被忽略的文件
+# 系统设计
 
-git存储（stash）: 
---------------------------
-    
-    git stash                   # 保存当前的工作进度
-    git stash save "message"    # 保存进度加说明
-    git stash list              # 显示进度列表
-    git stash pop               # 恢复最新保存的工作进度，并将恢复的工作进度从存储的列表中删除
-    git stash apply             # 恢复最新保存工作进度，但不删除
-    git stash drop              # 删除一个进度，默认删除最新的
-    git stash clear             # 删除所有
+- [大规模分布式存储系统](https://book.douban.com/subject/25723658/)
+- [从 Paxos 到 Zookeeper](https://book.douban.com/subject/26292004/)
+- [大型网站系统与 Java 中间件开发实践](https://book.douban.com/subject/25867042/)
+- [淘宝技术这十年](https://book.douban.com/subject/24335672/)
+- [深入理解 Nginx](https://book.douban.com/subject/22793675/)
 
-git重置（reset）:
---------------------
+# 开发工具
 
-    git reset --mixed           # 同不带任何参数的git reset一样，重置暂存区，但不改变工作区
-    git reset --soft            # 回退到某个版本，不改变暂存区和工作区（如果还要提交，直接commit即可）
-    git reset --hard            # 彻底回退到某个版本，替换暂存区和工作区，本地的源码也会变为上一个版本的内容
-    
-    git reset                   # 将之前用git add命令添加到暂存区的内容撤出暂存区（相当于git add -A 的反向操作）
-    git reset HEAD              # HEAD 效果同上，因为引用重置到HEAD相当与没有重置
-    git reset filename          # 将文件撤出暂存区（相当于git add filename的反向操作）
-    git reset HEAD^             # 引用回退一次（工作区不变，暂存区回退）
-    git reset --soft HEAD~3     # 引用回退三次（工作区不变，暂存区不变）
+- [Pro Git](https://git-scm.com/book/zh/v2)
+- [正则表达式必知必会](https://book.douban.com/subject/2269648/)
 
-git撤销（revert）：
------------------------
-    
-    git revert commit               # 撤销指定commit
-    git revert HEAD                 # 撤销上一次commit
-    git revert -no-edit HEAD        # 撤销上一次并直接使用默认注释
-    git revert -n HEAD              # 撤销上一次但不commit
+# 编码实践
 
-git合并（merge）：
-----------------------
-    
-    git merge <branch_name>             # 合并
-    git merge --no-ff <branch_name>     # 采用no fast forward的合并方式，这种方式在合并的同时会生成一个新的commit
-    git merge --abort                   # 尽量回退到merge前的状态（可能会失败）
+- [重构](https://book.douban.com/subject/4262627/)
+- [代码大全](https://book.douban.com/subject/1477390/)
+- [人月神话](https://book.douban.com/subject/1102259/)
+- [程序员的职业素养](https://book.douban.com/subject/11614538/)
+- [编写可读代码的艺术](https://book.douban.com/subject/10797189/)
 
-git重新基变（rebase）：
------------------------
-    
-    git rebase <branch_name>    # 
-    git rebase --continue       # 执行rebase出现冲突解决后，执行该命令会继续应用(apply)余下的补丁
-    git rebase --skip           # 跳过当前提交
-    git rebase --abort          # 终止rebase, 分支会回到rebase开始前的状态
+# 其它
 
-git获取/拉（fetch/pull）：
-------------------------
-
-    git fetch               # 从远程获取最新版本到本地，不会自动merge
-    
-    git pull                # 从远程获取最新版本并merge到本地
-    git pull --rebase       # 暂存本地变更，合并远程最新改动，合并刚刚暂存的本地变更（不产生无用的merge的同步）
-
-git推（push）:
-------------------------
-    
-    git push origin master      # 将本地分支推送到origin主机的master分支
-    git push -u origin master   # -u指定origin为默认主机，后面就可以不加任何参数使用git push了
-    git push -f origin          # -f强推，在远程主机产生一个"非直进式"的合并(non-fast-forward merge)
-    git push --all origin       # 将所有本地分支都推送到origin主
+- [JavaScript 语言精粹](https://book.douban.com/subject/3590768/)
+- [利用 Python 进行数据分析](https://book.douban.com/subject/25779298/)
+- [概率论与数理统计](https://book.douban.com/subject/2201479/)
