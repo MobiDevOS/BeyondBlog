@@ -3,6 +3,91 @@
   <component name="ChangeListManager">
     <list default="true" id="51b2b687-4b2c-4e25-8584-6f7c0d915c07" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html" afterPath="$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/27/Hexo-GitHub搭建个人博客/index.html" afterPath="$PROJECT_DIR$/2017/12/27/Hexo-GitHub搭建个人博客/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/27/hexo常用命令/index.html" afterPath="$PROJECT_DIR$/2017/12/27/hexo常用命令/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/AsyncTask研究/index.html" afterPath="$PROJECT_DIR$/2018/01/03/AsyncTask研究/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/RoboBinding-MVVM-架构介绍/index.html" afterPath="$PROJECT_DIR$/2018/01/03/RoboBinding-MVVM-架构介绍/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/应用内存优化之OnLowMemory-OnTrimMemory/index.html" afterPath="$PROJECT_DIR$/2018/01/03/应用内存优化之OnLowMemory-OnTrimMemory/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/自定义控件View之onMeasure调用时机源码分析/index.html" afterPath="$PROJECT_DIR$/2018/01/03/自定义控件View之onMeasure调用时机源码分析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/08/在git命令行下查看git-stash里面文件的内容/index.html" afterPath="$PROJECT_DIR$/2018/01/08/在git命令行下查看git-stash里面文件的内容/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/08/通过adb-shell命令查看当前交互的Activity名称/index.html" afterPath="$PROJECT_DIR$/2018/01/08/通过adb-shell命令查看当前交互的Activity名称/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/17/SharedPreferences源码详解/index.html" afterPath="$PROJECT_DIR$/2018/01/17/SharedPreferences源码详解/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/17/adb常用命令/index.html" afterPath="$PROJECT_DIR$/2018/01/17/adb常用命令/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/18/AppLinks使用详解/index.html" afterPath="$PROJECT_DIR$/2018/01/18/AppLinks使用详解/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/18/DeepLink用法及原理解析/index.html" afterPath="$PROJECT_DIR$/2018/01/18/DeepLink用法及原理解析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/19/Android中onSaveInstanceState和onRestoreInstanceState讲解/index.html" afterPath="$PROJECT_DIR$/2018/01/19/Android中onSaveInstanceState和onRestoreInstanceState讲解/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/22/国内配置gradle/index.html" afterPath="$PROJECT_DIR$/2018/01/22/国内配置gradle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html" afterPath="$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/01/Android-NDK开发系列教程1：环境搭建及基本代码结构/index.html" afterPath="$PROJECT_DIR$/2018/02/01/Android-NDK开发系列教程1：环境搭建及基本代码结构/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程2：基本方法调用及传参/index.html" afterPath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程2：基本方法调用及传参/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程3：基本方法调用及传参（续）/index.html" afterPath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程3：基本方法调用及传参（续）/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/04/Android-NDK开发系列教程4：对类变量进行操作/index.html" afterPath="$PROJECT_DIR$/2018/02/04/Android-NDK开发系列教程4：对类变量进行操作/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html" afterPath="$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html" afterPath="$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/10/03/Kotlin学习笔记一-基本语法/index.html" afterPath="$PROJECT_DIR$/2018/10/03/Kotlin学习笔记一-基本语法/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记三-类、对象和接口/index.html" afterPath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记三-类、对象和接口/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记二-常用操作符/index.html" afterPath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记二-常用操作符/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/12/index.html" afterPath="$PROJECT_DIR$/archives/2017/12/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/archives/2018/02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/03/index.html" afterPath="$PROJECT_DIR$/archives/2018/03/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="$PROJECT_DIR$/archives/2018/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/4/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/5/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/2/index.html" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/3/index.html" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/4/index.html" afterPath="$PROJECT_DIR$/archives/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/5/index.html" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/index.html" afterPath="$PROJECT_DIR$/categories/Android/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/page/2/index.html" afterPath="$PROJECT_DIR$/categories/Android/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/page/3/index.html" afterPath="$PROJECT_DIR$/categories/Android/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/page/4/index.html" afterPath="$PROJECT_DIR$/categories/Android/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Git/index.html" afterPath="$PROJECT_DIR$/categories/Git/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Hexo/index.html" afterPath="$PROJECT_DIR$/categories/Hexo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Kotlin/index.html" afterPath="$PROJECT_DIR$/categories/Kotlin/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/gradle/index.html" afterPath="$PROJECT_DIR$/categories/gradle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/人工智能/index.html" afterPath="$PROJECT_DIR$/categories/人工智能/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/设计模式/index.html" afterPath="$PROJECT_DIR$/categories/设计模式/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="$PROJECT_DIR$/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/3/index.html" afterPath="$PROJECT_DIR$/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/4/index.html" afterPath="$PROJECT_DIR$/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/5/index.html" afterPath="$PROJECT_DIR$/page/5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android-DeepLink-源码解析/index.html" afterPath="$PROJECT_DIR$/tags/Android-DeepLink-源码解析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android-JNI开发/index.html" afterPath="$PROJECT_DIR$/tags/Android-JNI开发/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android-NDK开发，JNI开发/index.html" afterPath="$PROJECT_DIR$/tags/Android-NDK开发，JNI开发/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android学习/index.html" afterPath="$PROJECT_DIR$/tags/Android学习/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android源码分析/index.html" afterPath="$PROJECT_DIR$/tags/Android源码分析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/AppLinks-DeepLinks/index.html" afterPath="$PROJECT_DIR$/tags/AppLinks-DeepLinks/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Dex类加载/index.html" afterPath="$PROJECT_DIR$/tags/Dex类加载/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Hexo学习/index.html" afterPath="$PROJECT_DIR$/tags/Hexo学习/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Hexo搭建/index.html" afterPath="$PROJECT_DIR$/tags/Hexo搭建/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Kotlin学习/index.html" afterPath="$PROJECT_DIR$/tags/Kotlin学习/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/RoboBinding-MVC-MVP/index.html" afterPath="$PROJECT_DIR$/tags/RoboBinding-MVC-MVP/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/SharedPreferences-Editor/index.html" afterPath="$PROJECT_DIR$/tags/SharedPreferences-Editor/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/View-onMeasure/index.html" afterPath="$PROJECT_DIR$/tags/View-onMeasure/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ViewPager-Fragment预加载/index.html" afterPath="$PROJECT_DIR$/tags/ViewPager-Fragment预加载/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/adb命令/index.html" afterPath="$PROJECT_DIR$/tags/adb命令/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/adb查看交互Activity名称/index.html" afterPath="$PROJECT_DIR$/tags/adb查看交互Activity名称/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/gradle配置/index.html" afterPath="$PROJECT_DIR$/tags/gradle配置/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/onAttachedToWindow和onDetachedFromWindow-源码解析/index.html" afterPath="$PROJECT_DIR$/tags/onAttachedToWindow和onDetachedFromWindow-源码解析/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/onSaveInstanceState/index.html" afterPath="$PROJECT_DIR$/tags/onSaveInstanceState/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/内存优化/index.html" afterPath="$PROJECT_DIR$/tags/内存优化/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/应用内部广播-LocalBroadcastManager/index.html" afterPath="$PROJECT_DIR$/tags/应用内部广播-LocalBroadcastManager/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/查看git-bash内容/index.html" afterPath="$PROJECT_DIR$/tags/查看git-bash内容/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/深度学习-吴恩达/index.html" afterPath="$PROJECT_DIR$/tags/深度学习-吴恩达/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/关于/index.html" afterPath="$PROJECT_DIR$/关于/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端/index.html" afterPath="$PROJECT_DIR$/前端/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/后端/index.html" afterPath="$PROJECT_DIR$/后端/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/工具/index.html" afterPath="$PROJECT_DIR$/工具/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/资源/index.html" afterPath="$PROJECT_DIR$/资源/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,29 +103,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018/02/01/Android-NDK开发系列教程1：环境搭建及基本代码结构/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程2：基本方法调用及传参/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="390">
               <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
@@ -50,7 +115,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程3：基本方法调用及传参（续）/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="390">
               <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
               <folding />
             </state>
@@ -60,7 +125,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/02/04/Android-NDK开发系列教程4：对类变量进行操作/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
+            <state relative-caret-position="390">
               <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
               <folding />
             </state>
@@ -70,7 +135,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/02/06/Android-NDK开发系列教程5：局部引用，全局引用，弱全局引用/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
+            <state relative-caret-position="390">
               <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
               <folding />
             </state>
@@ -80,7 +145,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
+            <state relative-caret-position="390">
               <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
               <folding />
             </state>
@@ -90,10 +155,10 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
+            <state relative-caret-position="540">
               <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
               <folding>
-                <marker date="1543808150660" expanded="true" signature="2053:2089" ph="..." />
+                <marker date="1543846572222" expanded="true" signature="2053:2089" ph="..." />
               </folding>
             </state>
           </provider>
@@ -102,22 +167,81 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
+            <state relative-caret-position="12105">
               <caret line="807" column="20" lean-forward="true" selection-start-line="807" selection-start-column="20" selection-end-line="807" selection-end-column="20" />
               <folding>
-                <marker date="1543808150656" expanded="true" signature="2047:2083" ph="..." />
+                <marker date="1543846301352" expanded="true" signature="2047:2083" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/资源/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="302" column="6" lean-forward="true" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
+              <folding>
+                <marker date="1543846276945" expanded="true" signature="1915:1951" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4260">
+              <caret line="284" column="49" lean-forward="true" selection-start-line="284" selection-start-column="49" selection-end-line="284" selection-end-column="49" />
+              <folding>
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#5004#5010#0" expanded="true" />
+                <element signature="e#6703#6709#0" expanded="true" />
+                <element signature="e#7127#7133#0" expanded="true" />
+                <element signature="e#7137#7143#0" expanded="true" />
+                <element signature="e#8652#8658#0" expanded="true" />
+                <element signature="e#10999#11005#0" expanded="true" />
+                <element signature="e#12950#12956#0" expanded="true" />
+                <element signature="e#14925#14931#0" expanded="true" />
+                <element signature="e#16738#16746#1" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#2;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#3;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#4;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#5;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#6;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#7;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#8;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#9;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#10;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#11;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#12;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#13;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#14;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#15;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#16;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#17;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#18;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#19;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#20;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#21;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#22;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#26834#26840#0" expanded="true" />
+                <marker date="1543846622602" expanded="true" signature="1976:2025" ph="..." />
+                <marker date="1543846622602" expanded="true" signature="1987:2017" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/资源/index.html">
+        <entry file="file://$PROJECT_DIR$/关于/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="294" column="19" lean-forward="false" selection-start-line="294" selection-start-column="19" selection-end-line="294" selection-end-column="19" />
+            <state relative-caret-position="268">
+              <caret line="113" column="33" lean-forward="true" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="33" />
               <folding>
-                <marker date="1543808150449" expanded="true" signature="1915:1951" ph="..." />
+                <marker date="1543846346390" expanded="true" signature="1906:1942" ph="..." />
               </folding>
             </state>
           </provider>
@@ -135,19 +259,41 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;dl class=&quot;list sashimi&quot;&gt;        &lt;dt&gt;前端栈&lt;/dt&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Maguro&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Toro&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Ebi&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Saba&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Ika&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Tako&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Tomago&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Kani&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Katsuo&lt;/a&gt;&lt;/dd&gt;        &lt;dd&gt;&lt;a href=&quot;#&quot;&gt;Maguro&lt;/a&gt;&lt;/dd&gt;    &lt;/dl&gt;</find>
-      <find>$sashimi</find>
-      <find>sashimi</find>
-      <find>demo</find>
       <find>list</find>
       <find>after</find>
       <find>tian</find>
       <find>mobidevos.github.io</find>
       <find>天宇</find>
+      <find>g</find>
+      <find>个人博客</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=content</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=conten</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=conte</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=cont</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=con</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=co</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=c</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmod</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmo</find>
+      <find>http://blog.csdn.net/hty1053240123?viewm</find>
+      <find>http://blog.csdn.net/hty1053240123?view</find>
+      <find>http://blog.csdn.net/hty1053240123?vie</find>
+      <find>http://blog.csdn.net/hty1053240123?vi</find>
+      <find>http://blog.csdn.net/hty1053240123?v</find>
+      <find>http://blog.csdn.net/hty1053240123?</find>
+      <find>http://blog.csdn.net/hty1053240123?viewmode=contents</find>
+      <find>http://blog.csdn.net/hty1053240123</find>
+      <find>http://blog.csdn.net/hty105324012</find>
+      <find>http://blog.csdn.net/hty1053</find>
+      <find>http://blog.csdn.net/hty</find>
+      <find>http://blog.csdn.net/ht</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>zhujohnle</replace>
+      <replace>http://hdlxdl.site/zlblog</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -190,6 +336,7 @@
         <option value="$PROJECT_DIR$/2018/02/06/Android-NDK开发系列教程5：局部引用，全局引用，弱全局引用/index.html" />
         <option value="$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html" />
         <option value="$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html" />
+        <option value="$PROJECT_DIR$/关于/index.html" />
       </list>
     </option>
   </component>
@@ -242,14 +389,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="资源" />
+              <option name="myItemId" value="关于" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -359,16 +506,16 @@
       <workItem from="1542855752325" duration="1523000" />
       <workItem from="1542857395235" duration="5382000" />
       <workItem from="1543302950082" duration="5000" />
-      <workItem from="1543807659885" duration="1660000" />
+      <workItem from="1543807659885" duration="1936000" />
+      <workItem from="1543845543966" duration="1180000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12404000" />
+    <option name="totallyTimeSpent" value="13860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -377,7 +524,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122733615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32635984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -399,22 +546,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6315">
-          <caret line="421" column="2" lean-forward="false" selection-start-line="421" selection-start-column="2" selection-end-line="421" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -453,36 +585,22 @@
             <element signature="n#style#0;n#a#20;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#21;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#22;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26805#26811#0" expanded="true" />
-            <marker date="1543808150670" expanded="true" signature="1976:2025" ph="..." />
+            <element signature="e#26834#26840#0" expanded="true" />
+            <marker date="1543846622602" expanded="true" signature="1976:2025" ph="..." />
+            <marker date="1543846622602" expanded="true" signature="1987:2017" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuepage/vue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vuepage/vue.html" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6315">
-          <caret line="421" column="2" lean-forward="true" selection-start-line="421" selection-start-column="2" selection-end-line="421" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -521,43 +639,23 @@
             <element signature="n#style#0;n#a#20;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#21;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#22;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26805#26811#0" expanded="true" />
-            <marker date="1543808150670" expanded="true" signature="1976:2025" ph="..." />
+            <element signature="e#26834#26840#0" expanded="true" />
+            <marker date="1543846622602" expanded="true" signature="1976:2025" ph="..." />
+            <marker date="1543846622602" expanded="true" signature="1987:2017" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vuepage/vue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/vuepage/vue.html" />
+    <entry file="file://$PROJECT_DIR$/index.md" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5985">
-          <caret line="399" column="23" lean-forward="true" selection-start-line="399" selection-start-column="23" selection-end-line="399" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -596,109 +694,27 @@
             <element signature="n#style#0;n#a#20;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#21;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#22;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26805#26811#0" expanded="true" />
-            <marker date="1543808150670" expanded="true" signature="1976:2025" ph="..." />
+            <element signature="e#26834#26840#0" expanded="true" />
+            <marker date="1543846622602" expanded="true" signature="1976:2025" ph="..." />
+            <marker date="1543846622602" expanded="true" signature="1987:2017" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.MD" />
     <entry file="file://$PROJECT_DIR$/test.MD" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/vue-learn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/js/vue-learn.js" />
     <entry file="file://$PROJECT_DIR$/test.MD" />
     <entry file="file://$PROJECT_DIR$/rerer" />
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vuepage/vue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git/git.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-906">
-          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6315">
-          <caret line="421" column="2" lean-forward="false" selection-start-line="421" selection-start-column="2" selection-end-line="421" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.md" />
+    <entry file="file://$PROJECT_DIR$/vuepage/vue.html" />
+    <entry file="file://$PROJECT_DIR$/git/git.md" />
+    <entry file="file://$PROJECT_DIR$/js/index.js" />
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1245">
           <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1384">
-          <caret line="284" column="49" lean-forward="true" selection-start-line="284" selection-start-column="49" selection-end-line="284" selection-end-column="49" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#5004#5010#0" expanded="true" />
-            <element signature="e#6703#6709#0" expanded="true" />
-            <element signature="e#7127#7133#0" expanded="true" />
-            <element signature="e#7137#7143#0" expanded="true" />
-            <element signature="e#8652#8658#0" expanded="true" />
-            <element signature="e#10999#11005#0" expanded="true" />
-            <element signature="e#12950#12956#0" expanded="true" />
-            <element signature="e#14925#14931#0" expanded="true" />
-            <element signature="e#16738#16746#1" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#2;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#3;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#4;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#5;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#6;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#7;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#8;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#9;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#10;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#11;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#12;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#13;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#14;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#15;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#16;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#17;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#18;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#19;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#20;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#21;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#22;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#26805#26811#0" expanded="true" />
-            <marker date="1543808150670" expanded="true" signature="1976:2025" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +722,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <marker date="1543808150326" expanded="true" signature="1906:1942" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -842,7 +856,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="390">
           <caret line="26" column="18" lean-forward="false" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding />
         </state>
@@ -850,7 +864,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/02/01/Android-NDK开发系列教程1：环境搭建及基本代码结构/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="390">
           <caret line="26" column="40" lean-forward="false" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
           <folding />
         </state>
@@ -858,7 +872,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程2：基本方法调用及传参/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="390">
           <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
@@ -866,7 +880,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程3：基本方法调用及传参（续）/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="390">
           <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
           <folding />
         </state>
@@ -874,7 +888,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/02/04/Android-NDK开发系列教程4：对类变量进行操作/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
+        <state relative-caret-position="390">
           <caret line="26" column="37" lean-forward="false" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
           <folding />
         </state>
@@ -882,7 +896,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/02/06/Android-NDK开发系列教程5：局部引用，全局引用，弱全局引用/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
+        <state relative-caret-position="390">
           <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
           <folding />
         </state>
@@ -890,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
+        <state relative-caret-position="390">
           <caret line="26" column="46" lean-forward="false" selection-start-line="26" selection-start-column="46" selection-end-line="26" selection-end-column="46" />
           <folding />
         </state>
@@ -898,30 +912,85 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
+        <state relative-caret-position="540">
           <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
           <folding>
-            <marker date="1543808150660" expanded="true" signature="2053:2089" ph="..." />
+            <marker date="1543846572222" expanded="true" signature="2053:2089" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
+        <state relative-caret-position="12105">
           <caret line="807" column="20" lean-forward="true" selection-start-line="807" selection-start-column="20" selection-end-line="807" selection-end-column="20" />
           <folding>
-            <marker date="1543808150656" expanded="true" signature="2047:2083" ph="..." />
+            <marker date="1543846301352" expanded="true" signature="2047:2083" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/资源/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="294" column="19" lean-forward="false" selection-start-line="294" selection-start-column="19" selection-end-line="294" selection-end-column="19" />
+        <state relative-caret-position="262">
+          <caret line="302" column="6" lean-forward="true" selection-start-line="302" selection-start-column="6" selection-end-line="302" selection-end-column="6" />
           <folding>
-            <marker date="1543808150449" expanded="true" signature="1915:1951" ph="..." />
+            <marker date="1543846276945" expanded="true" signature="1915:1951" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4260">
+          <caret line="284" column="49" lean-forward="true" selection-start-line="284" selection-start-column="49" selection-end-line="284" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#5004#5010#0" expanded="true" />
+            <element signature="e#6703#6709#0" expanded="true" />
+            <element signature="e#7127#7133#0" expanded="true" />
+            <element signature="e#7137#7143#0" expanded="true" />
+            <element signature="e#8652#8658#0" expanded="true" />
+            <element signature="e#10999#11005#0" expanded="true" />
+            <element signature="e#12950#12956#0" expanded="true" />
+            <element signature="e#14925#14931#0" expanded="true" />
+            <element signature="e#16738#16746#1" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#2;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#3;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#4;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#5;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#6;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#7;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#8;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#9;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#10;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#11;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#12;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#13;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#14;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#15;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#16;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#17;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#18;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#19;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#20;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#21;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#22;n#div#0;n#div#5;n#aside#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#26834#26840#0" expanded="true" />
+            <marker date="1543846622602" expanded="true" signature="1976:2025" ph="..." />
+            <marker date="1543846622602" expanded="true" signature="1987:2017" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/关于/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="113" column="33" lean-forward="true" selection-start-line="113" selection-start-column="33" selection-end-line="113" selection-end-column="33" />
+          <folding>
+            <marker date="1543846346390" expanded="true" signature="1906:1942" ph="..." />
           </folding>
         </state>
       </provider>
