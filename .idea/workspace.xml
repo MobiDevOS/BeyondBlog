@@ -3,98 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="51b2b687-4b2c-4e25-8584-6f7c0d915c07" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html" afterPath="$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/27/Hexo-GitHub搭建个人博客/index.html" afterPath="$PROJECT_DIR$/2017/12/27/Hexo-GitHub搭建个人博客/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2017/12/27/hexo常用命令/index.html" afterPath="$PROJECT_DIR$/2017/12/27/hexo常用命令/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/AsyncTask研究/index.html" afterPath="$PROJECT_DIR$/2018/01/03/AsyncTask研究/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/RoboBinding-MVVM-架构介绍/index.html" afterPath="$PROJECT_DIR$/2018/01/03/RoboBinding-MVVM-架构介绍/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/应用内存优化之OnLowMemory-OnTrimMemory/index.html" afterPath="$PROJECT_DIR$/2018/01/03/应用内存优化之OnLowMemory-OnTrimMemory/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/03/自定义控件View之onMeasure调用时机源码分析/index.html" afterPath="$PROJECT_DIR$/2018/01/03/自定义控件View之onMeasure调用时机源码分析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/08/在git命令行下查看git-stash里面文件的内容/index.html" afterPath="$PROJECT_DIR$/2018/01/08/在git命令行下查看git-stash里面文件的内容/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/08/通过adb-shell命令查看当前交互的Activity名称/index.html" afterPath="$PROJECT_DIR$/2018/01/08/通过adb-shell命令查看当前交互的Activity名称/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/09/onAttachedToWindow和onDetachedFromWindow调用时机源码解析/index.html" afterPath="$PROJECT_DIR$/2018/01/09/onAttachedToWindow和onDetachedFromWindow调用时机源码解析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/17/Android应用内部广播机制详解/index.html" afterPath="$PROJECT_DIR$/2018/01/17/Android应用内部广播机制详解/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/17/SharedPreferences源码详解/index.html" afterPath="$PROJECT_DIR$/2018/01/17/SharedPreferences源码详解/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/17/adb常用命令/index.html" afterPath="$PROJECT_DIR$/2018/01/17/adb常用命令/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/18/AppLinks使用详解/index.html" afterPath="$PROJECT_DIR$/2018/01/18/AppLinks使用详解/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/18/DeepLink用法及原理解析/index.html" afterPath="$PROJECT_DIR$/2018/01/18/DeepLink用法及原理解析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/19/Android中onSaveInstanceState和onRestoreInstanceState讲解/index.html" afterPath="$PROJECT_DIR$/2018/01/19/Android中onSaveInstanceState和onRestoreInstanceState讲解/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/22/国内配置gradle/index.html" afterPath="$PROJECT_DIR$/2018/01/22/国内配置gradle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html" afterPath="$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/01/Android-NDK开发系列教程1：环境搭建及基本代码结构/index.html" afterPath="$PROJECT_DIR$/2018/02/01/Android-NDK开发系列教程1：环境搭建及基本代码结构/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程2：基本方法调用及传参/index.html" afterPath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程2：基本方法调用及传参/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程3：基本方法调用及传参（续）/index.html" afterPath="$PROJECT_DIR$/2018/02/02/Android-NDK开发系列教程3：基本方法调用及传参（续）/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/04/Android-NDK开发系列教程4：对类变量进行操作/index.html" afterPath="$PROJECT_DIR$/2018/02/04/Android-NDK开发系列教程4：对类变量进行操作/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/02/06/Android-NDK开发系列教程5：局部引用，全局引用，弱全局引用/index.html" afterPath="$PROJECT_DIR$/2018/02/06/Android-NDK开发系列教程5：局部引用，全局引用，弱全局引用/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html" afterPath="$PROJECT_DIR$/2018/03/06/解决ViewPager+Fragment预加载导致未显示界面提前加载数据/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html" afterPath="$PROJECT_DIR$/2018/03/22/Android中Handler导致内存泄漏的原理分析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/10/03/Kotlin学习笔记一-基本语法/index.html" afterPath="$PROJECT_DIR$/2018/10/03/Kotlin学习笔记一-基本语法/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记三-类、对象和接口/index.html" afterPath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记三-类、对象和接口/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记二-常用操作符/index.html" afterPath="$PROJECT_DIR$/2018/10/05/Kotlin学习笔记二-常用操作符/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/12/index.html" afterPath="$PROJECT_DIR$/archives/2017/12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/archives/2018/02/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/03/index.html" afterPath="$PROJECT_DIR$/archives/2018/03/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/10/index.html" afterPath="$PROJECT_DIR$/archives/2018/10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="$PROJECT_DIR$/archives/2018/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/4/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/5/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/2/index.html" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/3/index.html" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/4/index.html" afterPath="$PROJECT_DIR$/archives/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/5/index.html" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/atom.xml" afterPath="$PROJECT_DIR$/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/index.html" afterPath="$PROJECT_DIR$/categories/Android/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/page/2/index.html" afterPath="$PROJECT_DIR$/categories/Android/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/page/3/index.html" afterPath="$PROJECT_DIR$/categories/Android/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/page/4/index.html" afterPath="$PROJECT_DIR$/categories/Android/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Git/index.html" afterPath="$PROJECT_DIR$/categories/Git/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Hexo/index.html" afterPath="$PROJECT_DIR$/categories/Hexo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Kotlin/index.html" afterPath="$PROJECT_DIR$/categories/Kotlin/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/gradle/index.html" afterPath="$PROJECT_DIR$/categories/gradle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/人工智能/index.html" afterPath="$PROJECT_DIR$/categories/人工智能/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/设计模式/index.html" afterPath="$PROJECT_DIR$/categories/设计模式/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content.json" afterPath="$PROJECT_DIR$/content.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="$PROJECT_DIR$/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/3/index.html" afterPath="$PROJECT_DIR$/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/4/index.html" afterPath="$PROJECT_DIR$/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/5/index.html" afterPath="$PROJECT_DIR$/page/5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/search.xml" afterPath="$PROJECT_DIR$/search.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android-DeepLink-源码解析/index.html" afterPath="$PROJECT_DIR$/tags/Android-DeepLink-源码解析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android-JNI开发/index.html" afterPath="$PROJECT_DIR$/tags/Android-JNI开发/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android-NDK开发，JNI开发/index.html" afterPath="$PROJECT_DIR$/tags/Android-NDK开发，JNI开发/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android学习/index.html" afterPath="$PROJECT_DIR$/tags/Android学习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Android源码分析/index.html" afterPath="$PROJECT_DIR$/tags/Android源码分析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/AppLinks-DeepLinks/index.html" afterPath="$PROJECT_DIR$/tags/AppLinks-DeepLinks/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Dex类加载/index.html" afterPath="$PROJECT_DIR$/tags/Dex类加载/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Hexo学习/index.html" afterPath="$PROJECT_DIR$/tags/Hexo学习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Hexo搭建/index.html" afterPath="$PROJECT_DIR$/tags/Hexo搭建/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Kotlin学习/index.html" afterPath="$PROJECT_DIR$/tags/Kotlin学习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/RoboBinding-MVC-MVP/index.html" afterPath="$PROJECT_DIR$/tags/RoboBinding-MVC-MVP/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/SharedPreferences-Editor/index.html" afterPath="$PROJECT_DIR$/tags/SharedPreferences-Editor/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/View-onMeasure/index.html" afterPath="$PROJECT_DIR$/tags/View-onMeasure/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ViewPager-Fragment预加载/index.html" afterPath="$PROJECT_DIR$/tags/ViewPager-Fragment预加载/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/adb命令/index.html" afterPath="$PROJECT_DIR$/tags/adb命令/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/adb查看交互Activity名称/index.html" afterPath="$PROJECT_DIR$/tags/adb查看交互Activity名称/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/gradle配置/index.html" afterPath="$PROJECT_DIR$/tags/gradle配置/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/onAttachedToWindow和onDetachedFromWindow-源码解析/index.html" afterPath="$PROJECT_DIR$/tags/onAttachedToWindow和onDetachedFromWindow-源码解析/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/onSaveInstanceState/index.html" afterPath="$PROJECT_DIR$/tags/onSaveInstanceState/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/内存优化/index.html" afterPath="$PROJECT_DIR$/tags/内存优化/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/应用内部广播-LocalBroadcastManager/index.html" afterPath="$PROJECT_DIR$/tags/应用内部广播-LocalBroadcastManager/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/查看git-bash内容/index.html" afterPath="$PROJECT_DIR$/tags/查看git-bash内容/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/深度学习-吴恩达/index.html" afterPath="$PROJECT_DIR$/tags/深度学习-吴恩达/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/关于/index.html" afterPath="$PROJECT_DIR$/关于/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/前端/index.html" afterPath="$PROJECT_DIR$/前端/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/后端/index.html" afterPath="$PROJECT_DIR$/后端/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/工具/index.html" afterPath="$PROJECT_DIR$/工具/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/资源/index.html" afterPath="$PROJECT_DIR$/资源/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -109,16 +17,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2018/01/22/国内配置gradle/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2018/01/23/深度学习课程资源/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -201,13 +99,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="12">
-              <caret line="784" column="127" lean-forward="false" selection-start-line="784" selection-start-column="127" selection-end-line="784" selection-end-column="127" />
+            <state relative-caret-position="35">
+              <caret line="807" column="20" lean-forward="true" selection-start-line="807" selection-start-column="20" selection-end-line="807" selection-end-column="20" />
               <folding>
                 <marker date="1543808150656" expanded="true" signature="2047:2083" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/资源/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="294" column="19" lean-forward="false" selection-start-line="294" selection-start-column="19" selection-end-line="294" selection-end-column="19" />
+              <folding>
+                <marker date="1543808150449" expanded="true" signature="1915:1951" ph="..." />
               </folding>
             </state>
           </provider>
@@ -319,6 +229,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="mobidevos.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobidevos.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mobidevos.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="资源" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -435,15 +359,16 @@
       <workItem from="1542855752325" duration="1523000" />
       <workItem from="1542857395235" duration="5382000" />
       <workItem from="1543302950082" duration="5000" />
-      <workItem from="1543807659885" duration="479000" />
+      <workItem from="1543807659885" duration="1660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11223000" />
+    <option name="totallyTimeSpent" value="12404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="809" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -452,7 +377,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30683404" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.122733615" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -474,14 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vuepage/vue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="41" lean-forward="false" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
@@ -991,10 +908,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2017/12/27/DexClassLoader加载过程分析/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="784" column="127" lean-forward="false" selection-start-line="784" selection-start-column="127" selection-end-line="784" selection-end-column="127" />
+        <state relative-caret-position="35">
+          <caret line="807" column="20" lean-forward="true" selection-start-line="807" selection-start-column="20" selection-end-line="807" selection-end-column="20" />
           <folding>
             <marker date="1543808150656" expanded="true" signature="2047:2083" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/资源/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="294" column="19" lean-forward="false" selection-start-line="294" selection-start-column="19" selection-end-line="294" selection-end-column="19" />
+          <folding>
+            <marker date="1543808150449" expanded="true" signature="1915:1951" ph="..." />
           </folding>
         </state>
       </provider>
