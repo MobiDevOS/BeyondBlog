@@ -24,10 +24,10 @@
     <!--Title-->
 
 
-<title>Android NDK开发系列教程3：基本方法调用及传参（续） | 天宇</title>
+<title>Android NDK开发系列教程3：基本方法调用及传参（续） | zhujohnle</title>
 
 
-    <link rel="alternate" href="/atom.xml" title="天宇" type="application/atom+xml">
+    <link rel="alternate" href="/atom.xml" title="zhujohnle" type="application/atom+xml">
 
 
     <link rel="icon" href="/favicon.ico"  type="image/x-icon">
@@ -233,7 +233,7 @@ Java_zqc_com_example_NativeTest_jni2javaMethod2(JNIEnv *env, jobject instance) {
     jmethodID setAgeMid = env-&gt;GetMethodID(pcls, &quot;setName&quot;, &quot;(I)V&quot;);
     jobject person = env-&gt;NewObject(pcls, constructor);
     env-&gt;CallVoidMethod(person, setIdMid, 100L);
-    env-&gt;CallVoidMethod(person, setNameMid, env-&gt;NewStringUTF(&quot;天宇&quot;));
+    env-&gt;CallVoidMethod(person, setNameMid, env-&gt;NewStringUTF(&quot;zhujohnle&quot;));
     env-&gt;CallVoidMethod(person, setAgeMid, 18);
     return person;
 }
@@ -325,7 +325,7 @@ Java_zqc_com_example_NativeTest_jni2javaMethod4(JNIEnv *env, jobject instance) {
     jmethodID setNameMid = env-&gt;GetMethodID(pcls, &quot;setName&quot;, &quot;(Ljava/lang/String;)V&quot;);
     jmethodID setAgeMid = env-&gt;GetMethodID(pcls, &quot;setAge&quot;, &quot;(I)V&quot;);
     jobject obj = env-&gt;NewObject(pcls, cmid);
-    env-&gt;CallVoidMethod(obj, setNameMid, env-&gt;NewStringUTF(&quot;天宇&quot;));
+    env-&gt;CallVoidMethod(obj, setNameMid, env-&gt;NewStringUTF(&quot;zhujohnle&quot;));
 
     int len = 3;
     jobjectArray joa = env-&gt;NewObjectArray(len, cls, obj);
@@ -363,7 +363,7 @@ Java_zqc_com_example_NativeTest_jni2javaMethod5(JNIEnv *env, jobject instance) {
     <div class="post-footer">   
         <div>
             
-                转载声明：商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="http://blog.csdn.net/hty1053240123?viewmode=contents" target="_blank">天宇240</a>
+                转载声明：商业转载请联系作者获得授权,非商业转载请注明出处 © <a href="http://blog.csdn.net/hty1053240123?viewmode=contents" target="_blank">zhujohnle240</a>
             
         </div>
         <div>
